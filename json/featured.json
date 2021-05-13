@@ -1,0 +1,22 @@
+[
+	{
+		"name":"Spotify++",
+		"img":"img/spotify.png",
+		"subtitle":"Tweaked Apps"
+	},
+	{
+		"name":"Delta",
+		"img": "img/delta.png",
+		"subtitle":"Emulator"
+	},
+	{
+		"name":"Textastic",
+		"img": "img/text.png",
+		"subtitle":"Paid Apps"
+	},
+	{
+		"name":"Odyssey",
+		"img": "img/odyssey.png",
+		"subtitle":"Jailbreaks"
+	}
+]

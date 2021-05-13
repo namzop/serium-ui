@@ -1,0 +1,52 @@
+[
+    {
+        "name":"Spotify++",
+        "img":"img/spotify.png",
+        "subtitle":"Tweaked Apps"
+    },
+    {
+        "name":"Instagram++",
+        "img":"img/instagram.png",
+        "subtitle":"Tweaked Apps"
+    },
+    {
+        "name":"Minecraft",
+        "img":"img/minecraft.png",
+        "subtitle":"Paid Games"
+    },
+    {
+		"name":"Textastic",
+		"img": "img/text.png",
+		"subtitle":"Paid Apps"
+	},
+    {
+		"name":"Procreate",
+		"img": "img/pro.png",
+		"subtitle":"Paid Apps"
+	},
+    {
+		"name":"Odyssey",
+		"img": "img/odyssey.png",
+		"subtitle":"Jailbreaks"
+	},
+    {
+		"name":"Unc0ver",
+		"img": "img/u0.png",
+		"subtitle":"Jailbreaks"
+	},
+    {
+        "name":"Taurine",
+        "img":"img/taurine.png",
+        "subtitle":"Jailbreaks"
+    },
+    {
+		"name":"Delta",
+		"img": "img/delta.png",
+		"subtitle":"Emulators"
+	},
+    {
+		"name":"iNDS",
+		"img": "img/inds.png",
+		"subtitle":"Emulators"
+	}
+]
